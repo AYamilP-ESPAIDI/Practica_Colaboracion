@@ -1,0 +1,15 @@
+Name: Screens
+Type: ScreensCategoryFolder
+Children:
+- Name: Main
+  Id: g=f9660efff3deba3cb7beff36302329e8
+  Supertype: Screen
+  ReferenceType: HasComponent
+- Name: M1
+  Id: g=a0804288ea665ff3a4fab4d89155d1ad
+  Supertype: Screen
+  ReferenceType: HasComponent
+- Name: M2
+  Id: g=c8a1f8e2daee8c331667f3416aa0a158
+  Supertype: Screen
+  ReferenceType: HasComponent
