@@ -5,6 +5,15 @@ Children:
   Id: g=f9660efff3deba3cb7beff36302329e8
   Supertype: Screen
   ReferenceType: HasComponent
+  Children:
+  - Name: Label1
+    Type: Label
+    Children:
+    - Name: Text
+      Type: BaseDataVariableType
+      DataType: LocalizedText
+      ModellingRule: Optional
+      Value: {"LocaleId":"en-US","Text":"Label1"}
 - Name: M1
   Id: g=a0804288ea665ff3a4fab4d89155d1ad
   Supertype: Screen
